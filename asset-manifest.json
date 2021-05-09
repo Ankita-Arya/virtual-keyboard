@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/virtual-keyboard/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/virtual-keyboard/static/js/main.08eec20a.chunk.js",
-    "main.js.map": "/virtual-keyboard/static/js/main.08eec20a.chunk.js.map",
+    "main.js": "/virtual-keyboard/static/js/main.beea8f44.chunk.js",
+    "main.js.map": "/virtual-keyboard/static/js/main.beea8f44.chunk.js.map",
     "runtime-main.js": "/virtual-keyboard/static/js/runtime-main.62ccda94.js",
     "runtime-main.js.map": "/virtual-keyboard/static/js/runtime-main.62ccda94.js.map",
     "static/js/2.183a84be.chunk.js": "/virtual-keyboard/static/js/2.183a84be.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.62ccda94.js",
     "static/js/2.183a84be.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.08eec20a.chunk.js"
+    "static/js/main.beea8f44.chunk.js"
   ]
 }
