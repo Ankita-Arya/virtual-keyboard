@@ -23,7 +23,7 @@ const Key = styled.div`
         background-color: ${props => props.theme === 'dark' ? '#686869' : '#b3b3b3'};
         color: ${props => props.theme === 'dark' ? '#f5f5f5' : '#000'};
         background-size: 100%;
-        transition: background 0s
+        transition: background .3s
     }
 `
 const KeyBase = styled.div`

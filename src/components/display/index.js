@@ -2,13 +2,15 @@ import React, { useState, useRef } from 'react';
 import KeyboardComponent from '../keyboard';
 import {
     Monitor,
-    Output,
+    Output
+} from './styles';
+import {
     CheckBox,
     CheckBoxLabel,
     CheckBoxWrapper,
     ConfigButtonsContainer,
     Label
-} from './styles';
+} from '../common/styles';
 
 const DisplayComponent = () => {
     const [input, updateInput] = useState();

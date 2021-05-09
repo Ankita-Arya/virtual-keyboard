@@ -1,4 +1,5 @@
 import React from 'react';
+import { KeyboardKeyWidths } from '../../../../keysdata';
 import {
     Key,
     KeyBase,
@@ -37,7 +38,7 @@ const KeyboardRowComponent = (props) => {
                     onClick={() => props.onKeyPressFn(null, item)}>
                     <Key
                         theme={props.theme}
-                        width={item.width}
+                        width={KeyboardKeyWidths[props.keyName][index]}
                         displayLeft={item.displayLeft}
                         highlight={setHighlightBool(item)}
                     >
